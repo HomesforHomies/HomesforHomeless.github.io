@@ -5,7 +5,7 @@ description: Homes for Homies is a dedicated nonprofit organization committed to
 
 # Jekyll settings
 baseurl: "" # Leave this blank unless your site is located on a subpath, e.g. /blog
-url: "https://smartergiving.org" # Typically http://www.yourdomain.org
+url: "https://homesforhomeless.github.io" # Typically http://www.yourdomain.org
 sass:
   sass_dir: assets/css/_sass
   style: compressed
