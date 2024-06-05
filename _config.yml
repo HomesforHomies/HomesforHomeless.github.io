@@ -1,7 +1,7 @@
 # Site settings
 # Meta tags
-title: SmarterGiving
-description: Advancing the philanthropic world through open source experiments
+title: Homes For Homeies
+description: Homes for Homies is a dedicated nonprofit organization committed to supporting the low-income and homeless individuals of the Twin Cities. Our mission is to channel the generosity of our donors to reputable organizations that directly assist those in need, ensuring that every dollar makes a tangible difference. By partnering with local shelters, food banks, and community outreach programs, we strive to create a network of support and resources that empowers individuals to achieve stability and rebuild their lives. Together, we can foster a stronger, more compassionate community.
 
 # Jekyll settings
 baseurl: "" # Leave this blank unless your site is located on a subpath, e.g. /blog
